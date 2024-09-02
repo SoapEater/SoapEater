@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I'm Rehum D. Baraquil or my Internet Persona as  SoapEater. </h1>
+<h1 align="center"> Hi I'm Hum or my Internet Persona as  SoapEater. </h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SoapEater&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
