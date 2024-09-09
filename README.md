@@ -34,7 +34,7 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 <!-- Stats -->
 
-<img align="left" width="54%" src="https://raw.githubusercontent.com/SoapEater/SoapEater/main/assets/maxwell-cat.gif"/>
+<img align="left" width="52%" src="https://raw.githubusercontent.com/SoapEater/SoapEater/main/assets/maxwell-cat.gif"/>
 
 <a href="https://github.com/SoapEater"><img width="420" src="https://github-readme-stats.vercel.app/api?username=SoapEater&bg_color=ff4d6b&text_color=ff94a7&title_color=89001c&hide_border=true&border_radius=50"></a>
 
