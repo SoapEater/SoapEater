@@ -33,13 +33,11 @@
 <!-- WIP -->
 <!-- ------------------------------------------------------------------------------------------------------ -->
 <!-- Stats -->
-<div align="center">
+<div align="right">
+  <a href="https://github.com/SoapEater"><img width="420" src="https://github-readme-stats.vercel.app/api?username=SoapEater&bg_color=ff4d6b&text_color=ff94a7&title_color=89001c&hide_border=true&border_radius=50"></a>
 
-  <a href="https://github.com/SoapEater"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=SoapEater&bg_color=ff4d6b&text_color=ff94a7&title_color=89001c&hide_border=true&border_radius=50"></a>
-  &nbsp;
   <a href="https://git.io/streak-stats"><img height="180px" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=SoapEater&hide_border=true&border_radius=50&mode=weekly&card_width=500&type=png&background=FF4D6B&stroke=89001C&ring=89001C&fire=89001C&currStreakLabel=89001C&currStreakNum=FF94A7&sideNums=FF94A7&sideLabels=FF94A7&dates=155E0D" alt="GitHub Streak" /></a>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SoapEater&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoapEater&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ------------------------------------------------------------------------------------------------------ -->
