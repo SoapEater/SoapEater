@@ -9,6 +9,7 @@
     I enjoy programming and stare at my screen for ungodly amount of hours and expecting all the bugs to magically fix themselves. I enjoy playing video games and eating (Yeah I'm pretty just average an <a href="https://raw.githubusercontent.com/SoapEater/SoapEater/main/assets/AHHHHHHH.gif">Joe</a>)
   </h3>
 
+  >I'm cringe, and that's based. I will never be based, and that's not cringe. There's no one I'd rather be than me. - *Random person in the internet*
 </div>
 <!-- ------------------------------------------------------------------------------------------------------ -->
 <!-- Media -->
